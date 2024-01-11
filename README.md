@@ -1,2 +1,3 @@
 # Demo
-This is my First git-hub repo
+This is my First git-hub repository.
+Author- Gaurav Shukla
